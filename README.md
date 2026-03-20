@@ -1,4 +1,23 @@
-## Hi there 👋
+# 🍺 Hi! I'm Re*Index. (ot_inc)
+![AveMujica](./image/AM_header.webp)
+
+## 📋 About
+
+**日本語**
+
+あっ、どうも。細々と何かやってるぞ。生暖かく見てくれ。<br>
+現在は[BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemujica/)を視聴中...
+
+**English**
+
+(Oh,) hey. Just tinkering with a few things.<br>
+Right now, I'm watching [BanG Dream! Ave Mujica](https://anime.bang-dream.com/avemujica/)...
+
+### 🎵 NowPlaying (Spotify)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rz37vbxpqjvforlhb3w22ib5gy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rz37vbxpqjvforlhb3w22ib5gy&redirect=true)
+
+### 🐾 Visitor
+![:reindex-ot](https://count.getloli.com/get/@:heapseMaths)
 
 <!--
 **heapseMaths/heapseMaths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
