@@ -1,5 +1,4 @@
 # 🍺 Hi! I'm Re*Index. (ot_inc)
-![AveMujica](./image/AM_header.webp)
 
 ## 📋 About
 
